@@ -9,7 +9,7 @@
          "Telethon",
          "Gladiators"
       ],   
-   "repository": "https://t.me/Gladiators_Support",
+   "repository": "https://github.com/eeded333sa/spammerbots",
    "addons": [
       {
          "options": {
@@ -36,7 +36,7 @@
       },
       "OWNER_NAME": {
          "description": "Owners name to be displayed in alive command.",
-         "value": "@Gladiators_Projects",
+         "value": "@",
          "required": true
       },
       "OWNER_ID": {
